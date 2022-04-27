@@ -96,6 +96,7 @@ h5py==3.1.0
 htmlmin==0.1.12
 idna==3.3
 ImageHash==4.2.1
+imageio==2.18.0
 importlib-metadata==4.10.1
 importlib-resources==5.4.0
 ipykernel==6.7.0
